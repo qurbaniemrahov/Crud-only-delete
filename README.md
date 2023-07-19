@@ -1,1 +1,4 @@
-# Crud-only-delete
+# Which technolojies i used :
+- Html
+- Css
+- Js
