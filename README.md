@@ -1,4 +1,4 @@
-# Which technolojies i used :
+# Technologies used
 - Html
 - Css
 - Js
